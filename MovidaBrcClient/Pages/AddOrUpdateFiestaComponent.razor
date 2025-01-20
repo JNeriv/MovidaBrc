@@ -1,0 +1,105 @@
+﻿@page "/agregar-fiesta"
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-6">
+			<EditForm Model="MyFiesta" Enhance OnValidSubmit="HandleSaveFiesta">
+				<DataAnnotationsValidator/>
+				<ValidationSummary/>
+				<div class="card">
+					<div class="card-header">Agregar Fiesta</div>
+					<div class="card-body">
+						<div class="form-group">
+							<label class="form-label"> Nombre</label>
+							<InputText @bind-Value="MyFiesta.NombreFiesta" class="form-control"></InputText>
+						</div>
+						<div class="form-group mt-3">
+							<label class="form-label"> Ubicación</label>
+							<InputText @bind-Value="MyFiesta.UbicacionFiesta" class="form-control"></InputText>
+						</div>
+						<div class="form-group mt-3">
+							<label class="form-label"> Descripción</label>
+							<InputText @bind-Value="MyFiesta.DescripcionFiesta" class="form-control"></InputText>
+						</div>
+						<div class="form-group mt-3">
+							<label class="form-label @(ImageUploadMessage == ""?"":"text-danger")"> 
+								@(ImageUploadMessage == "" ? "Imágen" : ImageUploadMessage)
+							</label>
+							<InputFile class="form-control" OnChange="UploadImage"></InputFile>
+						</div>
+						<div class="form-group mt-3">
+							<label class="form-label">Fecha de Realización</label>
+							<InputDate @bind-Value="MyFiesta.FechaRealizacionFiesta" class="form-control" />
+
+						</div>
+					</div>
+				</div>
+				<div class="card-footer">
+					<div class="form-group mt-3">
+						@if (ShowSaveButton){
+							<button type="submit" class="btn btn-outline-primary"> <i class="fa fa-plus"></i> Publicar Fiesta</button>
+						}
+						<BusyButtonComponnent ShowBusyButton="ShowBusyButton"></BusyButtonComponnent>
+					</div>
+				</div>
+			</EditForm>
+		</div>
+	</div>
+</div>
+
+<MessageDialog @ref="messageDialog"></MessageDialog>
+
+
+@code {
+
+	Fiesta MyFiesta = new();
+
+	string ImageUploadMessage = "";
+
+	async Task HandleSaveFiesta(){
+		ShowSaveButton = false;
+		ShowBusyButton = !ShowSaveButton;
+		if (string.IsNullOrEmpty(MyFiesta.ImagenFiesta)){
+			messageDialog!.SetDialogValues("Error", "Debes elegir una imágen.");
+			SetMessageDialog();
+			return;
+		}
+
+		var (flag, message) = await FiestaService.AddFiesta(MyFiesta);
+		if (flag)
+			messageDialog!.SetDialogValues("Éxito", message);
+		else
+			messageDialog!.SetDialogValues("Error", message);
+
+		SetMessageDialog();
+		return;
+	}
+
+	async Task UploadImage(InputFileChangeEventArgs e){
+		if (e.File.Name.ToLower().Contains(".png")){
+			var format = "image/png";
+			var resizeImage = await e.File.RequestImageFileAsync(format, 300, 300);
+			var buffer = new byte[resizeImage.Size];
+			await resizeImage.OpenReadStream().ReadAsync(buffer);
+			var imageData = $"data:{format};base64,{Convert.ToBase64String(buffer)}";
+			ImageUploadMessage = "";
+			MyFiesta.ImagenFiesta = imageData;
+			imageData = "";
+			return;
+		}
+		ImageUploadMessage = "Se necesita una imagen PNG.";
+		return;
+	}
+
+	MessageDialog? messageDialog;
+	public bool ShowBusyButton { get; set; }
+	public bool ShowSaveButton { get; set; } = true;
+
+	private async void SetMessageDialog(){
+		await messageDialog!.ShowMessage();
+		ShowBusyButton = false;
+		ShowSaveButton = !ShowBusyButton;
+		StateHasChanged();
+	}
+
+}

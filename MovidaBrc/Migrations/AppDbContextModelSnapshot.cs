@@ -34,11 +34,15 @@ namespace MovidaBrc.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("FechaCreacionFiesta")
-                        .HasColumnType("datetime2");
-
                     b.Property<DateTime>("FechaRealizacionFiesta")
                         .HasColumnType("datetime2");
+
+                    b.Property<bool>("GratisBoolFiesta")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("ImagenFiesta")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("NombreFiesta")
                         .IsRequired()
@@ -46,6 +50,10 @@ namespace MovidaBrc.Migrations
 
                     b.Property<int>("TipoFiesta")
                         .HasColumnType("int");
+
+                    b.Property<string>("UbicacionFiesta")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("IdFiesta");
 

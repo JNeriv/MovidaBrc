@@ -28,8 +28,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dragar/Desktop/repositorios/MovidaBrc/MovidaBrcClient/Pages/AddOrUpdateFiestaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3JVcGRhdGVGaWVzdGFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dragar/Desktop/repositorios/MovidaBrc/MovidaBrcClient/Pages/BusyButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzeUJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dragar/Desktop/repositorios/MovidaBrc/MovidaBrcClient/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dragar/Desktop/repositorios/MovidaBrc/MovidaBrcClient/Pages/MessageDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzc2FnZURpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dragar/Desktop/repositorios/MovidaBrc/MovidaBrcClient/_Imports.razor]

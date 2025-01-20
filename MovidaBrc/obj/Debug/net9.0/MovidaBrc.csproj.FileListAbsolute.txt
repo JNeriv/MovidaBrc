@@ -185,3 +185,5 @@ C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrc\bin\Debug\net9.0\runtim
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrc\bin\Debug\net9.0\libman.json
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrc\obj\Debug\net9.0\MovidaBrc.sourcelink.json

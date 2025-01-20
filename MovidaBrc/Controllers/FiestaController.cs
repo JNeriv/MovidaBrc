@@ -8,13 +8,8 @@ namespace MovidaBrc.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class FiestaController : ControllerBase
+    public class FiestaController(IFiesta fiestaService) : ControllerBase
     {
-        private readonly IFiesta fiestaService;
-        public FiestaController(IFiesta fiestaService)
-        {
-            this.fiestaService = fiestaService;
-        }
 
         [HttpGet]
         public async Task<ActionResult<Fiesta>> GetAllFiestas()

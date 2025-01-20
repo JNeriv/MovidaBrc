@@ -9,3 +9,4 @@ C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\refint\MovidaBrcSharedLibrary.dll
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.pdb
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\ref\MovidaBrcSharedLibrary.dll
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.sourcelink.json

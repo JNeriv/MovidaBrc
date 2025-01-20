@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovidaBrcClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5965dd97a9e3842facbb78b03d51572151622199")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovidaBrcClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovidaBrcClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,11 +17,18 @@ namespace MovidaBrcSharedLibrary.Models
 
         public DateTime FechaCreacionFiesta { get; } = DateTime.Now;
 
-        public DateTime FechaRealizacionFiesta { get; set; }
+        [Required]
+        public DateTime FechaRealizacionFiesta { get; set; } = DateTime.Now;
 
         [Required]
         public TipoFiesta TipoFiesta { get; set; }
 
+        [Required]
+        public string UbicacionFiesta { get; set; }
 
+        [Required]
+        public string ImagenFiesta { get; set; }
+
+        public bool GratisBoolFiesta { get; set; } = false;
     }
 }
