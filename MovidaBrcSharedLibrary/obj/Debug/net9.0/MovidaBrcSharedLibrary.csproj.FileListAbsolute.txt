@@ -1,0 +1,11 @@
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\bin\Debug\net9.0\MovidaBrcSharedLibrary.deps.json
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\bin\Debug\net9.0\MovidaBrcSharedLibrary.dll
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\bin\Debug\net9.0\MovidaBrcSharedLibrary.pdb
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.AssemblyInfo.cs
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.dll
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\refint\MovidaBrcSharedLibrary.dll
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\MovidaBrcSharedLibrary.pdb
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcSharedLibrary\obj\Debug\net9.0\ref\MovidaBrcSharedLibrary.dll

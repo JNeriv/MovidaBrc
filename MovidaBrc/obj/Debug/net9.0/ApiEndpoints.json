@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "MovidaBrc.Controllers.FiestaController",
+    "Method": "GetAllFiestas",
+    "RelativePath": "api/Fiesta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "MovidaBrcSharedLibrary.Models.Fiesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MovidaBrc.Controllers.FiestaController",
+    "Method": "AddFiesta",
+    "RelativePath": "api/Fiesta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovidaBrcSharedLibrary.Models.Fiesta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MovidaBrcSharedLibrary.Responses.ServiceResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
