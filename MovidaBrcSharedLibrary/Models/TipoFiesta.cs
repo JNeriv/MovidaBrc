@@ -8,7 +8,11 @@ namespace MovidaBrcSharedLibrary.Models
 {
     public enum TipoFiesta
     {
-        Electronica,
-        Rock
+        Electrónica,
+        Rock,
+        Cultural,
+        Charla,
+        Sunset,
+        Cachengue
     }
 }

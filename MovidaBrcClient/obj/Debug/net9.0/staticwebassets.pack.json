@@ -189,6 +189,14 @@
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
+      "Id": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
       "Id": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },

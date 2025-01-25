@@ -36,6 +36,14 @@ a, .btn-link {
     color: red;
 }
 
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
 #blazor-error-ui {
     color-scheme: light only;
     background: lightyellow;
@@ -111,4 +119,81 @@ code {
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
+}
+
+/* FrontPageComponent Styles */
+
+/* Asegura que todas las tarjetas tengan el mismo tamaño */
+.custom-card {
+    height: 100%; /* Ocupa todo el espacio disponible */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Distribuye contenido uniformemente */
+    border: 1px solid #ddd; /* Opcional: bordes */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Opcional: sombra */
+}
+
+    /* Ajusta las imágenes dentro de las tarjetas */
+    .custom-card img {
+        height: 200px; /* Define una altura consistente */
+        object-fit: cover; /* Ajusta la imagen para cubrir sin distorsión */
+        width: 100%;
+    }
+
+    /* Espaciado para los títulos y textos */
+    .custom-card .card-body {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .custom-card .card-title,
+    .custom-card .card-text,
+    .custom-card .card-subtitle {
+        margin-bottom: 0.5rem;
+    }
+
+    /* Botones */
+    .custom-card .btn {
+        margin-top: auto;
+        margin-right: 0.2rem;
+        margin-left: 0.2rem;
+    }
+
+/* Estilo para centrar solo el texto de TipoFiesta */
+.tipo-fiesta-bar {
+    width: 100%;
+    background-color: #333; /* Color base, se sobrescribe dinámicamente */
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Esto asegura que solo el texto de TipoFiesta esté centrado */
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.tipo-fiesta-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+/* Estilo para el cuadro "FREE" */
+.free-badge {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background-color: #FFCC00; /* Amarillo más oscuro */
+    color: black; /* Color del texto */
+    padding: 3px 6px; /* Hacemos el cuadro más pequeño */
+    border-radius: 10px; /* Bordes redondeados */
+    font-size: 0.7rem; /* Texto aún más pequeño */
+    border: 1px solid #000; /* Borde negro fino */
+    font-weight: bold; /* Texto en negrita */
 }

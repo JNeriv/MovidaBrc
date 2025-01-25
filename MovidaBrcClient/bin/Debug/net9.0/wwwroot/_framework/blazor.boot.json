@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MovidaBrcClient",
   "resources": {
-    "hash": "sha256-mOr/xYikC1BZiJ4/UrEzmAxUPmvub96GMCGFdSgfJSc=",
+    "hash": "sha256-CueQEQ0loQzC0WWyRaAjrN955YHu3BR9kGeX7/Hts70=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -25,6 +25,19 @@
       "Microsoft.Extensions.Primitives.3sx0y6ui4u.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.sk08br83jz.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.fkdz83fr0b.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
+      "Syncfusion.Blazor.Buttons.g6xtjvsk2s.wasm": "Syncfusion.Blazor.Buttons.wasm",
+      "Syncfusion.Blazor.Core.g9kemcx7nm.wasm": "Syncfusion.Blazor.Core.wasm",
+      "Syncfusion.Blazor.Data.jstskrchms.wasm": "Syncfusion.Blazor.Data.wasm",
+      "Syncfusion.Blazor.DropDowns.t31mz16hnh.wasm": "Syncfusion.Blazor.DropDowns.wasm",
+      "Syncfusion.Blazor.Inputs.7eof6xyxi3.wasm": "Syncfusion.Blazor.Inputs.wasm",
+      "Syncfusion.Blazor.Lists.2o6paanyuw.wasm": "Syncfusion.Blazor.Lists.wasm",
+      "Syncfusion.Blazor.Navigations.37cr1d9hmw.wasm": "Syncfusion.Blazor.Navigations.wasm",
+      "Syncfusion.Blazor.Notifications.9vrtmciplh.wasm": "Syncfusion.Blazor.Notifications.wasm",
+      "Syncfusion.Blazor.Popups.s9y56m8vie.wasm": "Syncfusion.Blazor.Popups.wasm",
+      "Syncfusion.Blazor.Spinner.47ar38nepx.wasm": "Syncfusion.Blazor.Spinner.wasm",
+      "Syncfusion.Blazor.SplitButtons.z4azper6hw.wasm": "Syncfusion.Blazor.SplitButtons.wasm",
+      "Syncfusion.Blazor.Themes.bvdpxlynyk.wasm": "Syncfusion.Blazor.Themes.wasm",
+      "Syncfusion.Licensing.26j63fkdqw.wasm": "Syncfusion.Licensing.wasm",
       "Microsoft.CSharp.mnvthyn9ga.wasm": "Microsoft.CSharp.wasm",
       "Microsoft.VisualBasic.Core.g11rmyyh65.wasm": "Microsoft.VisualBasic.Core.wasm",
       "Microsoft.VisualBasic.txibwr0y0j.wasm": "Microsoft.VisualBasic.wasm",
@@ -201,10 +214,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MovidaBrcSharedLibrary.cnjv8qzbna.wasm": "MovidaBrcSharedLibrary.wasm",
-      "MovidaBrcSharedLibrary.ab32k5xep4.pdb": "MovidaBrcSharedLibrary.pdb",
-      "MovidaBrcClient.vgp4pk5c2x.wasm": "MovidaBrcClient.wasm",
-      "MovidaBrcClient.jrzkrszp79.pdb": "MovidaBrcClient.pdb"
+      "MovidaBrcSharedLibrary.enximauw89.wasm": "MovidaBrcSharedLibrary.wasm",
+      "MovidaBrcSharedLibrary.ltmcpeo79d.pdb": "MovidaBrcSharedLibrary.pdb",
+      "MovidaBrcClient.q64zxlddbq.wasm": "MovidaBrcClient.wasm",
+      "MovidaBrcClient.knlc6g48ab.pdb": "MovidaBrcClient.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -247,6 +260,19 @@
       "Microsoft.Extensions.Primitives.3sx0y6ui4u.wasm": "sha256-A0WIty9B3GNUBtsykg0eb3kD47r0/Cpfk8q1Ei8ECrc=",
       "Microsoft.JSInterop.sk08br83jz.wasm": "sha256-FNS+xvA0GFiM2CVWHljv47AO+crkl0V7XiidkkMbVSw=",
       "Microsoft.JSInterop.WebAssembly.fkdz83fr0b.wasm": "sha256-kSwbIGuYmzrEilFXnLY8mKBXXFQtVXKAF/Qa323+Fnk=",
+      "Syncfusion.Blazor.Buttons.g6xtjvsk2s.wasm": "sha256-yCOFEs6vHwWIDUefxLWXEE21CeZ6dYB3wwlji2uvK9I=",
+      "Syncfusion.Blazor.Core.g9kemcx7nm.wasm": "sha256-7EvuVHJlQpXR5FL9w0Vx9Zlkp5oXzySEiGDzxJUiawY=",
+      "Syncfusion.Blazor.Data.jstskrchms.wasm": "sha256-02WxPgvdSAp+e6LEiRSwsA/0TNsKzDycfiNBby3KlwY=",
+      "Syncfusion.Blazor.DropDowns.t31mz16hnh.wasm": "sha256-GfYC2xXLe8gikO6aEkWCH+5T79pZXf+Zq83Iq9hwLUs=",
+      "Syncfusion.Blazor.Inputs.7eof6xyxi3.wasm": "sha256-wYxXMPA6s++jrlaKJpVymj3Aekj2XyfI8v+CbPweyDw=",
+      "Syncfusion.Blazor.Lists.2o6paanyuw.wasm": "sha256-/m9GvFRg43/tQF94dUyQENtPL6sVAGCfEek1cahzvFk=",
+      "Syncfusion.Blazor.Navigations.37cr1d9hmw.wasm": "sha256-fzsHZnHH4gs1ME+F74s0QlOAgPMWaZJac7UBleyeg7k=",
+      "Syncfusion.Blazor.Notifications.9vrtmciplh.wasm": "sha256-VRiFtiXCZxEOH3coDiCXowzLe1wzbeU4v91682Zg7ns=",
+      "Syncfusion.Blazor.Popups.s9y56m8vie.wasm": "sha256-QKUrC+5UxrTHKBSt6GK8FSF87FiamWIFKoAErjhHcxk=",
+      "Syncfusion.Blazor.Spinner.47ar38nepx.wasm": "sha256-YF8k23SqUeZZmmKUxwvTh665mTR7ZKVJy/hm6JBqwsc=",
+      "Syncfusion.Blazor.SplitButtons.z4azper6hw.wasm": "sha256-7QAky7kaPJSyos5JyNbVCJoFcp9TsDRxq7fFGLXBNi8=",
+      "Syncfusion.Blazor.Themes.bvdpxlynyk.wasm": "sha256-idiWwZY/Q6/VCqXKGATRIhmMO1t2hylanrEHF8lvjAk=",
+      "Syncfusion.Licensing.26j63fkdqw.wasm": "sha256-dloe5B3y7LTiCGm4V4Hh5M4W/NIPTm0raHeA0PNXs4I=",
       "Microsoft.CSharp.mnvthyn9ga.wasm": "sha256-fpFq3tiKl2KyIwwxqx00V0KgBM6xAe3+4MacTs9d0c0=",
       "Microsoft.VisualBasic.Core.g11rmyyh65.wasm": "sha256-BDwtMGszyqpVVjJQLJlpzwUZYXvG7ReKXIkB6OiAxVU=",
       "Microsoft.VisualBasic.txibwr0y0j.wasm": "sha256-X9/DgjYY/yytG8fIqL2MB7tBD3j/fo5VFEUVNS0k55Q=",
@@ -414,12 +440,12 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "MovidaBrcSharedLibrary.cnjv8qzbna.wasm": "sha256-yOpM/S+BrpCIrMV4pEcIMl1A+i6RLfGZb4bl/QPs+zU=",
-      "MovidaBrcClient.vgp4pk5c2x.wasm": "sha256-Ec3KKXQeZAX9+dKnutb1m8hhdFdWmydmlvRPWVMzqwk="
+      "MovidaBrcSharedLibrary.enximauw89.wasm": "sha256-JmfsM33X34LG+cdDJZvQZcf4vDaVmLMi7b+R5RK3U/c=",
+      "MovidaBrcClient.q64zxlddbq.wasm": "sha256-Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44="
     },
     "pdb": {
-      "MovidaBrcSharedLibrary.ab32k5xep4.pdb": "sha256-RtUYLZ7QJIA6HOunjhCBDLyTtrKkwKPh2DZtPQGR8yc=",
-      "MovidaBrcClient.jrzkrszp79.pdb": "sha256-8bJ0MmLdEpbF+g8GhGHcdeLroFtMeliTjETiBe9n/ho="
+      "MovidaBrcSharedLibrary.ltmcpeo79d.pdb": "sha256-dxBn8/2Blc3md+Fglo7CUbDS4HaIpwG1C6ybiL7bdqw=",
+      "MovidaBrcClient.knlc6g48ab.pdb": "sha256-oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q="
     }
   },
   "cacheBootResources": true,

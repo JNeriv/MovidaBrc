@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using MovidaBrc.Data;
 using MovidaBrc.Repositories;
+using MovidaBrc.Services;
 using MovidaBrcSharedLibrary.Contracts;
 using MovidaBrcSharedLibrary.Models;
 
@@ -24,6 +25,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IFiesta, FiestaRepository>();
 
 // Conexión con la base de datos termina
+
+// Agregar el servicio de eliminación de eventos
+builder.Services.AddHostedService<EventCleanupService>();
 
 var app = builder.Build();
 

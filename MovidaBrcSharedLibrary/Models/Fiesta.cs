@@ -30,5 +30,8 @@ namespace MovidaBrcSharedLibrary.Models
         public string ImagenFiesta { get; set; }
 
         public bool GratisBoolFiesta { get; set; } = false;
+
+        [Required]
+        public string HoraFiesta { get; set; }
     }
 }

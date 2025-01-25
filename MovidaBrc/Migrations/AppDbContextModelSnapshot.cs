@@ -40,6 +40,10 @@ namespace MovidaBrc.Migrations
                     b.Property<bool>("GratisBoolFiesta")
                         .HasColumnType("bit");
 
+                    b.Property<string>("HoraFiesta")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ImagenFiesta")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

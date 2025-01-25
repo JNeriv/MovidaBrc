@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nKwnGC7rc9s=",
+  "dgSpecHash": "xzaIYYfZnXM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\MovidaBrcClient.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,22 @@
     "C:\\Users\\Dragar\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.0\\microsoft.jsinterop.webassembly.9.0.0.nupkg.sha512",
     "C:\\Users\\Dragar\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
     "C:\\Users\\Dragar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.0\\microsoft.net.sdk.webassembly.pack.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.36\\syncfusion.blazor.buttons.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.core\\23.1.36\\syncfusion.blazor.core.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.data\\23.1.36\\syncfusion.blazor.data.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.36\\syncfusion.blazor.dropdowns.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.36\\syncfusion.blazor.inputs.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.lists\\23.1.36\\syncfusion.blazor.lists.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.36\\syncfusion.blazor.navigations.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.notifications\\23.1.36\\syncfusion.blazor.notifications.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.36\\syncfusion.blazor.popups.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.36\\syncfusion.blazor.spinner.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.36\\syncfusion.blazor.splitbuttons.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.36\\syncfusion.blazor.themes.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\syncfusion.licensing\\23.1.36\\syncfusion.licensing.23.1.36.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dragar\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\Dragar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.0.nupkg.sha512"
   ],
   "logs": []

@@ -1,0 +1,94 @@
+﻿<section id="gallery">
+    <div class="container">
+        <div class="row">
+            @if (FiestaList != null && FiestaList.Any())
+            {
+                @foreach (var eventItem in FiestaList.OrderBy(e => e.FechaRealizacionFiesta))
+                {
+                    <div class="col-md-4 col-lg-3 mb-4 d-flex align-items-stretch">
+                        <!-- Asegura el tamaño consistente de las tarjetas -->
+                        <div class="card custom-card h-100 position-relative">
+
+                            <!-- Si es gratis, muestra el cuadro amarillo "FREE" -->
+                            @if (eventItem.GratisBoolFiesta)
+                            {
+                                <div class="free-badge">GRATIS</div>
+                            }
+
+                            <!-- Contenedor de la imagen -->
+                            <img src="@eventItem.ImagenFiesta" alt="" class="card-img-top">
+
+                            <!-- Franja de color según TipoFiesta -->
+                            <div class="tipo-fiesta-bar" style="background-color: @GetTipoFiestaColor(eventItem.TipoFiesta);">
+                                <span class="tipo-fiesta-text">@eventItem.TipoFiesta</span>
+                            </div>
+
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">@eventItem.NombreFiesta</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">@eventItem.UbicacionFiesta</h6>
+                                <p class="card-text">@eventItem.DescripcionFiesta</p>
+                                <div class="mt-auto">
+                                    <a href="#" class="btn btn-outline-success btn-sm">+ Info</a>
+
+                                    <!-- Fecha en la esquina derecha -->
+                                    <span class="position-absolute end-0 text-muted small me-2" style="font-size: 1.25rem;">
+                                        @if (eventItem.FechaRealizacionFiesta.Date == DateTime.Now.Date)
+                                        {
+                                            @:Hoy
+                                        }
+                                        else
+                                        {
+                                            @eventItem.FechaRealizacionFiesta.ToString("dd/MM")
+                                        }
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p>Cargando eventos...</p>
+            }
+        </div>
+    </div>
+</section>
+
+
+@code {
+    List<Fiesta>? FiestaList = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await RetrieveFiestas();
+    }
+
+    private async Task RetrieveFiestas()
+    {
+        FiestaList?.Clear();
+        var results = await ClientService.GetAllFiestas();
+        if (results is null) return;
+
+        var listFiestas = results.ToList();
+        foreach (var i in listFiestas)
+        {
+            FiestaList!.Add(i);
+        }
+    }
+
+    // Método para obtener el color según el tipo de fiesta
+    private string GetTipoFiestaColor(TipoFiesta tipoFiesta)
+    {
+        return tipoFiesta switch
+        {
+            TipoFiesta.Electrónica => "#1D3C6A", // Azul oscuro elegante
+            TipoFiesta.Rock => "#B22222",       // Rojo más tenue
+            TipoFiesta.Cultural => "#FFD700",   // Amarillo dorado
+            TipoFiesta.Charla => "#F5F5F5",     // Blanco suave
+            TipoFiesta.Sunset => "#FF8C00",     // Naranja tenue
+            TipoFiesta.Cachengue => "#333333",  // Gris oscuro
+            _ => "#CCCCCC"                      // Gris claro por defecto
+        };
+    }
+}
