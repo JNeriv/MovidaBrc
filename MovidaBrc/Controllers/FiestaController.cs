@@ -21,7 +21,7 @@ namespace MovidaBrc.Controllers
         public async Task<ActionResult<ServiceResponse>> AddFiesta(Fiesta model)
         {
             if (model is null) return BadRequest("El modelo está vacío");
-            var response = await fiestaService.AddFiesta(model);
+           var response = await fiestaService.AddFiesta(model);
             return Ok(response);
         }
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LrqundHcXqDpxMN29XrPa8JuOkej3fYio1paY+nM02k=",
+  "Hash": "aiOu9qqu4lO/WtiCrpIO/Kio79F3lg/HLShLUrPlZbA=",
   "Source": "MovidaBrcClient",
   "BasePath": "/",
   "Mode": "Root",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "6or2a3sehe",
-      "Integrity": "lm7YdAmdldhKLUCHXA4pE7ARySB2mDtT4X9gahLx+y4=",
+      "Fingerprint": "wocpg3mhc3",
+      "Integrity": "gKhBvlM/q58ipt5o+5z1cFNupRHG6CfVObL2/ZHDAhM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -2131,8 +2131,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "knlc6g48ab",
-      "Integrity": "oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q=",
+      "Fingerprint": "ht3vbrxg3q",
+      "Integrity": "FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\MovidaBrcClient.pdb"
@@ -2152,8 +2152,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "q64zxlddbq",
-      "Integrity": "Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44=",
+      "Fingerprint": "8ynv5qbnuh",
+      "Integrity": "ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\webcil\\MovidaBrcClient.wasm"
@@ -6632,12 +6632,12 @@
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.wasm"
     },
     {
-      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-q64zxlddbq.gz",
+      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-8ynv5qbnuh.gz",
       "SourceId": "MovidaBrcClient",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MovidaBrcClient#[.{fingerprint=q64zxlddbq}]!.wasm.gz",
+      "RelativePath": "_framework/MovidaBrcClient#[.{fingerprint=8ynv5qbnuh}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6646,8 +6646,8 @@
       "RelatedAsset": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0vpik1qe9j",
-      "Integrity": "lFRDWrHEL1D2b0e4WkTBKyE2MuVSZ1Ry3JmKP1nU3W0=",
+      "Fingerprint": "oukh0txvap",
+      "Integrity": "0OcZuByAwbtqWWrIxRmACvyBNt3+0G+kA2GcyGrwCPk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.wasm"
@@ -9719,6 +9719,27 @@
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MovidaBrcClient.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\j1i2dcbqme-259nlpr534.gz",
+      "SourceId": "MovidaBrcClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "js/dialog#[.{fingerprint=259nlpr534}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\js\\dialog.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ww6113ul8v",
+      "Integrity": "wHkCPwlqziDJxMlcG1oJ1ANoBgv4LHWn2rcqJCoZoNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\js\\dialog.js"
+    },
+    {
       "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\j1yvsddj7y-bvdpxlynyk.gz",
       "SourceId": "MovidaBrcClient",
       "SourceType": "Computed",
@@ -10223,7 +10244,7 @@
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebSockets.wasm"
     },
     {
-      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\kzgoaekxgr-6or2a3sehe.gz",
+      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\kzgoaekxgr-wocpg3mhc3.gz",
       "SourceId": "MovidaBrcClient",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\",
@@ -10237,8 +10258,8 @@
       "RelatedAsset": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hep4izmsbp",
-      "Integrity": "Z4hxJxFYDI/Xw5PbUL91EjRZRkwQuiHo6oFIs5eOkKc=",
+      "Fingerprint": "anh8eurcnu",
+      "Integrity": "VsFchjpeC+pQT0XICwK08vCRJwBKh6y79OuoAI9UQcw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -12974,12 +12995,12 @@
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-knlc6g48ab.gz",
+      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-ht3vbrxg3q.gz",
       "SourceId": "MovidaBrcClient",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MovidaBrcClient#[.{fingerprint=knlc6g48ab}]!.pdb.gz",
+      "RelativePath": "_framework/MovidaBrcClient#[.{fingerprint=ht3vbrxg3q}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -12988,8 +13009,8 @@
       "RelatedAsset": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pfvnct9jyb",
-      "Integrity": "G5Gy8N87WgKVExFnMBSB4IT3QeanAFFBcySlpURzc3k=",
+      "Fingerprint": "u61gcb2zbf",
+      "Integrity": "BuJLKJ9Qr+x9jdFMfkmJepyv7cpKuQbJ9q7rwNNbk5g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.pdb"
@@ -14631,6 +14652,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\js\\dialog.js",
+      "SourceId": "MovidaBrcClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/dialog#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "259nlpr534",
+      "Integrity": "+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dialog.js"
     },
     {
       "Identity": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -24071,11 +24113,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lm7YdAmdldhKLUCHXA4pE7ARySB2mDtT4X9gahLx+y4=\""
+          "Value": "\"gKhBvlM/q58ipt5o+5z1cFNupRHG6CfVObL2/ZHDAhM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24085,18 +24127,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lm7YdAmdldhKLUCHXA4pE7ARySB2mDtT4X9gahLx+y4="
+          "Value": "sha256-gKhBvlM/q58ipt5o+5z1cFNupRHG6CfVObL2/ZHDAhM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\kzgoaekxgr-6or2a3sehe.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\kzgoaekxgr-wocpg3mhc3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000075289866"
+          "Quality": "0.000075278531"
         }
       ],
       "ResponseHeaders": [
@@ -24106,15 +24148,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13281"
+          "Value": "13283"
         },
         {
           "Name": "ETag",
-          "Value": "\"Z4hxJxFYDI/Xw5PbUL91EjRZRkwQuiHo6oFIs5eOkKc=\""
+          "Value": "\"VsFchjpeC+pQT0XICwK08vCRJwBKh6y79OuoAI9UQcw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:02:09 GMT"
+          "Value": "Sat, 25 Jan 2025 04:19:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24134,19 +24176,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lm7YdAmdldhKLUCHXA4pE7ARySB2mDtT4X9gahLx+y4=\""
+          "Value": "W/\"gKhBvlM/q58ipt5o+5z1cFNupRHG6CfVObL2/ZHDAhM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lm7YdAmdldhKLUCHXA4pE7ARySB2mDtT4X9gahLx+y4="
+          "Value": "sha256-gKhBvlM/q58ipt5o+5z1cFNupRHG6CfVObL2/ZHDAhM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\kzgoaekxgr-6or2a3sehe.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\kzgoaekxgr-wocpg3mhc3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24155,7 +24197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13281"
+          "Value": "13283"
         },
         {
           "Name": "Content-Type",
@@ -24163,11 +24205,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z4hxJxFYDI/Xw5PbUL91EjRZRkwQuiHo6oFIs5eOkKc=\""
+          "Value": "\"VsFchjpeC+pQT0XICwK08vCRJwBKh6y79OuoAI9UQcw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:02:09 GMT"
+          "Value": "Sat, 25 Jan 2025 04:19:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24185,7 +24227,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z4hxJxFYDI/Xw5PbUL91EjRZRkwQuiHo6oFIs5eOkKc="
+          "Value": "sha256-VsFchjpeC+pQT0XICwK08vCRJwBKh6y79OuoAI9UQcw="
         }
       ]
     },
@@ -35055,305 +35097,7 @@
       ]
     },
     {
-      "Route": "_framework/MovidaBrcClient.knlc6g48ab.pdb",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34896"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "knlc6g48ab"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MovidaBrcClient.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovidaBrcClient.knlc6g48ab.pdb",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-knlc6g48ab.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000038274582"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26126"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G5Gy8N87WgKVExFnMBSB4IT3QeanAFFBcySlpURzc3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "knlc6g48ab"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MovidaBrcClient.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovidaBrcClient.knlc6g48ab.pdb.gz",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-knlc6g48ab.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G5Gy8N87WgKVExFnMBSB4IT3QeanAFFBcySlpURzc3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "knlc6g48ab"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MovidaBrcClient.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-G5Gy8N87WgKVExFnMBSB4IT3QeanAFFBcySlpURzc3k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovidaBrcClient.pdb",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34896"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovidaBrcClient.pdb",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-knlc6g48ab.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000038274582"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26126"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G5Gy8N87WgKVExFnMBSB4IT3QeanAFFBcySlpURzc3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oD5Bk206bWFQChL2zYUsP6cRZmc1LBdfnbLIyK1TL6Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovidaBrcClient.pdb.gz",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-knlc6g48ab.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G5Gy8N87WgKVExFnMBSB4IT3QeanAFFBcySlpURzc3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-G5Gy8N87WgKVExFnMBSB4IT3QeanAFFBcySlpURzc3k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovidaBrcClient.q64zxlddbq.wasm",
+      "Route": "_framework/MovidaBrcClient.8ynv5qbnuh.wasm",
       "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -35363,7 +35107,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39701"
+          "Value": "44309"
         },
         {
           "Name": "Content-Type",
@@ -35371,11 +35115,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44=\""
+          "Value": "\"ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:11 GMT"
+          "Value": "Sat, 25 Jan 2025 04:23:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35385,7 +35129,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q64zxlddbq"
+          "Value": "8ynv5qbnuh"
         },
         {
           "Name": "label",
@@ -35393,18 +35137,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44="
+          "Value": "sha256-ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM="
         }
       ]
     },
     {
-      "Route": "_framework/MovidaBrcClient.q64zxlddbq.wasm",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-q64zxlddbq.gz",
+      "Route": "_framework/MovidaBrcClient.8ynv5qbnuh.wasm",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-8ynv5qbnuh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000060168472"
+          "Quality": "0.000056785917"
         }
       ],
       "ResponseHeaders": [
@@ -35414,15 +35158,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16619"
+          "Value": "17609"
         },
         {
           "Name": "ETag",
-          "Value": "\"lFRDWrHEL1D2b0e4WkTBKyE2MuVSZ1Ry3JmKP1nU3W0=\""
+          "Value": "\"0OcZuByAwbtqWWrIxRmACvyBNt3+0G+kA2GcyGrwCPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35442,13 +35186,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44=\""
+          "Value": "W/\"ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q64zxlddbq"
+          "Value": "8ynv5qbnuh"
         },
         {
           "Name": "label",
@@ -35456,13 +35200,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44="
+          "Value": "sha256-ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM="
         }
       ]
     },
     {
-      "Route": "_framework/MovidaBrcClient.q64zxlddbq.wasm.gz",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-q64zxlddbq.gz",
+      "Route": "_framework/MovidaBrcClient.8ynv5qbnuh.wasm.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-8ynv5qbnuh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -35471,7 +35215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16619"
+          "Value": "17609"
         },
         {
           "Name": "Content-Type",
@@ -35479,11 +35223,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lFRDWrHEL1D2b0e4WkTBKyE2MuVSZ1Ry3JmKP1nU3W0=\""
+          "Value": "\"0OcZuByAwbtqWWrIxRmACvyBNt3+0G+kA2GcyGrwCPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35501,7 +35245,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q64zxlddbq"
+          "Value": "8ynv5qbnuh"
         },
         {
           "Name": "label",
@@ -35509,7 +35253,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lFRDWrHEL1D2b0e4WkTBKyE2MuVSZ1Ry3JmKP1nU3W0="
+          "Value": "sha256-0OcZuByAwbtqWWrIxRmACvyBNt3+0G+kA2GcyGrwCPk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovidaBrcClient.ht3vbrxg3q.pdb",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:23:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ht3vbrxg3q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MovidaBrcClient.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovidaBrcClient.ht3vbrxg3q.pdb",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-ht3vbrxg3q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037027437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27006"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuJLKJ9Qr+x9jdFMfkmJepyv7cpKuQbJ9q7rwNNbk5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ht3vbrxg3q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MovidaBrcClient.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovidaBrcClient.ht3vbrxg3q.pdb.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-ht3vbrxg3q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuJLKJ9Qr+x9jdFMfkmJepyv7cpKuQbJ9q7rwNNbk5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ht3vbrxg3q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MovidaBrcClient.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuJLKJ9Qr+x9jdFMfkmJepyv7cpKuQbJ9q7rwNNbk5g="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovidaBrcClient.pdb",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MovidaBrcClient.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:23:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovidaBrcClient.pdb",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-ht3vbrxg3q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037027437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27006"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuJLKJ9Qr+x9jdFMfkmJepyv7cpKuQbJ9q7rwNNbk5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FWwfJMKgr3FnP+ymMicu5jzIaK0xb1VOWBtmXoMlUL4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovidaBrcClient.pdb.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\wwylku0t10-ht3vbrxg3q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuJLKJ9Qr+x9jdFMfkmJepyv7cpKuQbJ9q7rwNNbk5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuJLKJ9Qr+x9jdFMfkmJepyv7cpKuQbJ9q7rwNNbk5g="
         }
       ]
     },
@@ -35524,7 +35566,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39701"
+          "Value": "44309"
         },
         {
           "Name": "Content-Type",
@@ -35532,11 +35574,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44=\""
+          "Value": "\"ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:11 GMT"
+          "Value": "Sat, 25 Jan 2025 04:23:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35546,18 +35588,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44="
+          "Value": "sha256-ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM="
         }
       ]
     },
     {
       "Route": "_framework/MovidaBrcClient.wasm",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-q64zxlddbq.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-8ynv5qbnuh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000060168472"
+          "Quality": "0.000056785917"
         }
       ],
       "ResponseHeaders": [
@@ -35567,15 +35609,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16619"
+          "Value": "17609"
         },
         {
           "Name": "ETag",
-          "Value": "\"lFRDWrHEL1D2b0e4WkTBKyE2MuVSZ1Ry3JmKP1nU3W0=\""
+          "Value": "\"0OcZuByAwbtqWWrIxRmACvyBNt3+0G+kA2GcyGrwCPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35595,19 +35637,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44=\""
+          "Value": "W/\"ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Drt5mSEwzH2hZPNJyntQuGawkAYI3gNHM2VDr8wsW44="
+          "Value": "sha256-ADg1QD8WGhytoieCmUk/ZyczJY5zQW7yuA/UTY0dZkM="
         }
       ]
     },
     {
       "Route": "_framework/MovidaBrcClient.wasm.gz",
-      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-q64zxlddbq.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\304wiuz8ih-8ynv5qbnuh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -35616,7 +35658,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16619"
+          "Value": "17609"
         },
         {
           "Name": "Content-Type",
@@ -35624,11 +35666,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lFRDWrHEL1D2b0e4WkTBKyE2MuVSZ1Ry3JmKP1nU3W0=\""
+          "Value": "\"0OcZuByAwbtqWWrIxRmACvyBNt3+0G+kA2GcyGrwCPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 02:09:12 GMT"
+          "Value": "Sat, 25 Jan 2025 04:23:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35646,7 +35688,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lFRDWrHEL1D2b0e4WkTBKyE2MuVSZ1Ry3JmKP1nU3W0="
+          "Value": "sha256-0OcZuByAwbtqWWrIxRmACvyBNt3+0G+kA2GcyGrwCPk="
         }
       ]
     },
@@ -100999,6 +101041,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-CPqTQZI8QPCyXKyxSbg6SO42H+4vXBnQn6gDPuG5y9o="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialog.259nlpr534.js",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\j1i2dcbqme-259nlpr534.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006666666667"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wHkCPwlqziDJxMlcG1oJ1ANoBgv4LHWn2rcqJCoZoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:09:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "259nlpr534"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dialog.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialog.259nlpr534.js",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\js\\dialog.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:09:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "259nlpr534"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dialog.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialog.259nlpr534.js.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\j1i2dcbqme-259nlpr534.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wHkCPwlqziDJxMlcG1oJ1ANoBgv4LHWn2rcqJCoZoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:09:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "259nlpr534"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dialog.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wHkCPwlqziDJxMlcG1oJ1ANoBgv4LHWn2rcqJCoZoNA="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialog.js",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\j1i2dcbqme-259nlpr534.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006666666667"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wHkCPwlqziDJxMlcG1oJ1ANoBgv4LHWn2rcqJCoZoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:09:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialog.js",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\js\\dialog.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:09:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kgqgwdEsaORgKQ6rcMnjOov8PN6fZyDcaGuYyfdths="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialog.js.gz",
+      "AssetFile": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\obj\\Debug\\net9.0\\compressed\\j1i2dcbqme-259nlpr534.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wHkCPwlqziDJxMlcG1oJ1ANoBgv4LHWn2rcqJCoZoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 04:09:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wHkCPwlqziDJxMlcG1oJ1ANoBgv4LHWn2rcqJCoZoNA="
         }
       ]
     },

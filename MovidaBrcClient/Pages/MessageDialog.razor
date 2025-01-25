@@ -6,21 +6,25 @@
 		</div>
 		<div class="card-footer">
 			<form method="dialog">
-				<button class="btn btn-@AlertType float-end"> Aceptar</button>
+				<button class="btn btn-@AlertType float-end" @onclick="@(() => Navigation.NavigateTo("/"))">Aceptar</button>
 			</form>
 		</div>
 	</div>
 </dialog>
 
 @code {
-	private string AlertType { get; set;}  = string.Empty;
+	@inject NavigationManager Navigation
+	private string AlertType { get; set; } = string.Empty;
 	private string Message { get; set; } = string.Empty;
 
-	public void SetDialogValues(string alertType, string message){
-		AlertType = AlertType;
+	// Corregir la asignación
+	public void SetDialogValues(string alertType, string message)
+	{
+		AlertType = alertType; // Se debe asignar el parámetro correctamente
 		Message = message;
 		StateHasChanged();
 	}
-	public async Task ShowMessage() => await js.InvokeVoidAsync("ShowDialog");
 
+	// Método para mostrar el mensaje
+	public async Task ShowMessage() => await js.InvokeVoidAsync("ShowDialog");
 }

@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D41B941F-BFAC-45BE-A6D6-59918BE51E80}|MovidaBrc\\MovidaBrc.csproj|c:\\users\\dragar\\desktop\\repositorios\\movidabrc\\movidabrc\\services\\eventcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D41B941F-BFAC-45BE-A6D6-59918BE51E80}|MovidaBrc\\MovidaBrc.csproj|solutionrelative:movidabrc\\services\\eventcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D41B941F-BFAC-45BE-A6D6-59918BE51E80}|MovidaBrc\\MovidaBrc.csproj|c:\\users\\dragar\\desktop\\repositorios\\movidabrc\\movidabrc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D41B941F-BFAC-45BE-A6D6-59918BE51E80}|MovidaBrc\\MovidaBrc.csproj|solutionrelative:movidabrc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB09B2E0-E6E4-4683-9E1A-C27A15FF1737}|MovidaBrcClient\\MovidaBrcClient.csproj|c:\\users\\dragar\\desktop\\repositorios\\movidabrc\\movidabrcclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AB09B2E0-E6E4-4683-9E1A-C27A15FF1737}|MovidaBrcClient\\MovidaBrcClient.csproj|solutionrelative:movidabrcclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB09B2E0-E6E4-4683-9E1A-C27A15FF1737}|MovidaBrcClient\\MovidaBrcClient.csproj|c:\\users\\dragar\\desktop\\repositorios\\movidabrc\\movidabrcclient\\pages\\frontpagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB09B2E0-E6E4-4683-9E1A-C27A15FF1737}|MovidaBrcClient\\MovidaBrcClient.csproj|solutionrelative:movidabrcclient\\pages\\frontpagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{117918DE-B5E1-4340-89A9-1FB104F5E2A7}|MovidaBrcSharedLibrary\\MovidaBrcSharedLibrary.csproj|c:\\users\\dragar\\desktop\\repositorios\\movidabrc\\movidabrcsharedlibrary\\models\\fiesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{117918DE-B5E1-4340-89A9-1FB104F5E2A7}|MovidaBrcSharedLibrary\\MovidaBrcSharedLibrary.csproj|solutionrelative:movidabrcsharedlibrary\\models\\fiesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB09B2E0-E6E4-4683-9E1A-C27A15FF1737}|MovidaBrcClient\\MovidaBrcClient.csproj|c:\\users\\dragar\\desktop\\repositorios\\movidabrc\\movidabrcclient\\pages\\addorupdatefiestacomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB09B2E0-E6E4-4683-9E1A-C27A15FF1737}|MovidaBrcClient\\MovidaBrcClient.csproj|solutionrelative:movidabrcclient\\pages\\addorupdatefiestacomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventCleanupService.cs",
-              "DocumentMoniker": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrc\\Services\\EventCleanupService.cs",
-              "RelativeDocumentMoniker": "MovidaBrc\\Services\\EventCleanupService.cs",
-              "ToolTip": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrc\\Services\\EventCleanupService.cs",
-              "RelativeToolTip": "MovidaBrc\\Services\\EventCleanupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:22:59.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrc\\Program.cs",
-              "RelativeDocumentMoniker": "MovidaBrc\\Program.cs",
-              "ToolTip": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrc\\Program.cs",
-              "RelativeToolTip": "MovidaBrc\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:21:12.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Fiesta.cs",
-              "DocumentMoniker": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcSharedLibrary\\Models\\Fiesta.cs",
-              "RelativeDocumentMoniker": "MovidaBrcSharedLibrary\\Models\\Fiesta.cs",
-              "ToolTip": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcSharedLibrary\\Models\\Fiesta.cs",
-              "RelativeToolTip": "MovidaBrcSharedLibrary\\Models\\Fiesta.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T01:59:27.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "MovidaBrcClient\\wwwroot\\css\\app.css",
-              "ToolTip": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "MovidaBrcClient\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-25T00:28:26.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrontPageComponent.razor",
-              "DocumentMoniker": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\Pages\\FrontPageComponent.razor",
-              "RelativeDocumentMoniker": "MovidaBrcClient\\Pages\\FrontPageComponent.razor",
-              "ToolTip": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\Pages\\FrontPageComponent.razor",
-              "RelativeToolTip": "MovidaBrcClient\\Pages\\FrontPageComponent.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "AddOrUpdateFiestaComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\Pages\\AddOrUpdateFiestaComponent.razor",
+              "RelativeDocumentMoniker": "MovidaBrcClient\\Pages\\AddOrUpdateFiestaComponent.razor",
+              "ToolTip": "C:\\Users\\Dragar\\Desktop\\repositorios\\MovidaBrc\\MovidaBrcClient\\Pages\\AddOrUpdateFiestaComponent.razor",
+              "RelativeToolTip": "MovidaBrcClient\\Pages\\AddOrUpdateFiestaComponent.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T00:26:38.047Z",
+              "WhenOpened": "2025-01-25T04:11:11.048Z",
               "EditorCaption": ""
             }
           ]

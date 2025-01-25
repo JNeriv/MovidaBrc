@@ -36,6 +36,7 @@ C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\lib\boots
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\font-awesome\css\svg-with-js.css
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\font-awesome\js\regular.min.js
+C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\js\dialog.js
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\font-awesome\sprites\brands.svg
 C:\Users\Dragar\Desktop\repositorios\MovidaBrc\MovidaBrcClient\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
@@ -128,6 +129,7 @@ wwwroot\fonts\Poppins-Regular.ttf
 wwwroot\fonts\Poppins-SemiBold.ttf
 wwwroot\icon-192.png
 wwwroot\index.html
+wwwroot\js\dialog.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

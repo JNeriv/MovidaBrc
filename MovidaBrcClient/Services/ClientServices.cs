@@ -27,13 +27,20 @@ namespace MovidaBrcClient.Services
 
         public async Task<ServiceResponse> AddFiesta(Fiesta model)
         {
-            var response = await httpClient.PostAsync(BaseUrl, GenerateStringContent(SerializeObj(model)));
+            try
+            {
+                var response = await httpClient.PostAsync(BaseUrl, GenerateStringContent(SerializeObj(model)));
 
-            if (!response.IsSuccessStatusCode)
-                return new ServiceResponse(false, "Error. Vuelva a intentar en unos momentos...");
+                if (!response.IsSuccessStatusCode)
+                    return new ServiceResponse(false, "Error. Vuelva a intentar en unos momentos...");
 
-            var apiResponse = await response.Content.ReadAsStringAsync();
-            return DeserializeJsonString<ServiceResponse>(apiResponse);
+                var apiResponse = await response.Content.ReadAsStringAsync();
+                return DeserializeJsonString<ServiceResponse>(apiResponse);
+            }
+            catch (Exception ex)
+            {
+                return new ServiceResponse(false, $"Excepción: {ex.Message}");
+            }
         }
 
         public async Task<List<Fiesta>> GetAllFiestas()
